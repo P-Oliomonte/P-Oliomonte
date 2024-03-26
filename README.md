@@ -1,5 +1,5 @@
 # Hi, I'm P-Oliomonte
-## I'm currently learning frontend WebDev with neue fische
+## I'm currently learning frontend WebDev at neue fische
 
 Here's my **[website](https://phillip-oehlenberg.com/)** from my former life as graphic designer.
 
