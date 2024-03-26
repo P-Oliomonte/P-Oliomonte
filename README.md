@@ -1,10 +1,11 @@
 # Hi, I'm P-Oliomonte
 ## :bulb: I'm learning frontend WebDev at neue fische :bulb:
 
-I'm based in Hamburg, Germany an denjoy life with my family. In my spare time I love doing: 
-- Playing with my son
-- Yoga
-- Cooking
+I'm based in Hamburg, Germany an denjoy life with my family. In my spare time I love doing:
+
+:family_man_boy: Playing with my kid\
+:lotus_position_man: Yoga\
+:man_cook: Cooking
 
 Here's my **[website](https://phillip-oehlenberg.com/)** from my former life as graphic designer.
 
