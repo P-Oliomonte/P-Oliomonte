@@ -1,5 +1,10 @@
 # Hi, I'm P-Oliomonte
-## :bulb: I'm currently learning frontend WebDev at neue fische :bulb:
+## :bulb: I'm learning frontend WebDev at neue fische :bulb:
+
+I'm based in Hamburg, Germany an denjoy life with my family. In my spare time I love doing: 
+- Playing with my son
+- Yoga
+- Cooking
 
 Here's my **[website](https://phillip-oehlenberg.com/)** from my former life as graphic designer.
 
@@ -7,7 +12,7 @@ My new passion is programming and I'm looking forward to new challenges in this 
 
 ---
 
-##### I'm studying:
+##### I'm currently exploring:
 <p>
 <img src="/pics/ICONS_0001_HTML.png" width="5%" height="5%"> &nbsp; &nbsp;
 <img src="/pics/ICONS_0003_CSS.png" width="5%" height="5%"> &nbsp; &nbsp;
