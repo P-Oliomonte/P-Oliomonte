@@ -7,7 +7,7 @@ My new passion is programming and I'm looking forward for new challenges in this
 I'm going to learn:
 
 <ol>
-  <li>HTML</li>
+  <li><img src="./ICONS_0000_REACT.png,-Add%20files%20via">HTML</li>
   <li>CSS</li>
   <li>JAVASCRIPT</li>
   <li>REACT</li>
