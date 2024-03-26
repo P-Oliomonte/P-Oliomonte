@@ -3,7 +3,12 @@
 
 These are the things I've learnt so far: 
 
-- Commit = Safepoint/Snapshot 
-- Commit ID = hash
-- Initial Commit = erster commit
-  [ ] Check this aout
+<ul>
+<li> Commit = Safepoint/Snapshot </li>
+<li> Commit ID = hash </li>
+<li> Initial Commit = erster commit </li>
+</ul>
+- [ ] Check this aout
+
+> The next six month I will learn all this by heart
+
