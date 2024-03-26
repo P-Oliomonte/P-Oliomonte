@@ -22,3 +22,6 @@ My new passion is programming and I'm looking forward to new challenges in this 
 </p> 
 
 ---
+```
+![Visitor Count](https://profile-counter.glitch.me/{P-Oliomonte}/count.svg)
+```
