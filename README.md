@@ -1,7 +1,7 @@
 # Hi, I'm P-Oliomonte
 ## :bulb: I'm learning frontend WebDev at neue fische :bulb:
 
-I'm based in Hamburg, Germany an denjoy life with my family. In my spare time I love doing:
+I'm based in Hamburg, Germany and enjoy life with my family. In my spare time I love doing:
 
 :family_man_boy: Playing with my kid\
 :lotus_position_man: Yoga\
