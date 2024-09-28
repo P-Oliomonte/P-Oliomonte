@@ -1,7 +1,6 @@
 # Hi, I'm Phillip
----
 ## Frontend Web Developer / Gaphic Designer
----
+
 I'm a freshly trained frontend web developer and seasoned graphic designer based in Hamburg, with over a dozen years of professional experience in the design field. My journey began in the academic hubs of Cologne and the creative whirlwind of London, where I honed my design skills.
 
 Currently I'm taking part in a web development bootcamp at neue fische, expanding my expertise by diving deep into frontend web development. This blend of web development and graphic design allows me to craft visually stunning and user-friendly digital experiences. This combination makes me a strong for roles in frontend development, where both design aesthetics and technical precision are crucial. 
