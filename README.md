@@ -23,3 +23,8 @@ In my work, I'm reliable, detail-oriented, and dedicated to delivering quality r
    | <img src="/pics/ICON-VS.png" width="50px" height="50px"> | <img src="/pics/ICON-Ps.png" width="50px" height="50px"> | <img src="/pics/ICON-Ai.png" width="50px" height="50px"> | <img src="/pics/ICON-Id.png" width="50px" height="50px"> | <img src="/pics/ICON-Ae.png" width="50px" height="50px"> | <img src="/pics/ICON-Slack.png" width="50px" height="50px"> |
    |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
    | <p>VS Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
+
+   #### Languages
+   | <img src="/pics/ICON-German.png" width="50px" height="50px"> | <img src="/pics/ICON-English.png" width="50px" height="50px"> |
+|    :----:   |    :----:   |
+| <p>German</p> | <p>English</p> |
