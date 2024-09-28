@@ -16,16 +16,16 @@ In my work, I'm reliable, detail-oriented, and dedicated to delivering quality r
 #### Tech Stack
    | <img src="/pics/ICON-HTML.png" width="50px" height="50px"> | <img src="/pics/ICON-CSS.png" width="50px" height="50px"> | <img src="/pics/ICON-JS.png" width="50px" height="50px"> | <img src="/pics/ICON-React.png" width="50px" height="50px"> | <img src="/pics/ICON-Next.png" width="50px" height="50px"> | <img src="/pics/ICON-MongoDB.png" width="50px" height="50px"> |    
    |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
-   | <p><strong>HTML</strong></p> | <p>CSS</p> | <p>JavaScript</p> | <p>React</p> | <p>Next.js</p> | <p>MongoDB</p> |
+   | <p><strong>HTML</strong></p> | <p><strong>CSS</strong></p> | <p><strong>JavaScript</strong></p> | <p><strong>React</strong></p> | <p><strong>Next.js</strong></p> | <p><strong>MongoDB</strong></p> |
 
 
 
 #### Apps
    | <img src="/pics/ICON-VS.png" width="50px" height="50px"> | <img src="/pics/ICON-Ps.png" width="50px" height="50px"> | <img src="/pics/ICON-Ai.png" width="50px" height="50px"> | <img src="/pics/ICON-Id.png" width="50px" height="50px"> | <img src="/pics/ICON-Ae.png" width="50px" height="50px"> | <img src="/pics/ICON-Slack.png" width="50px" height="50px"> |
    |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
-   | <p>VS Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
+   | <p><strong>VS Code</strong></p> | <p><strong>Photoshop</strong></p> | <p><strong>Illustrator</strong></p> | <p><strong>InDesign</strong></p> | <p><strong>After Effects</strong></p> | <p><strong>Slack</strong></p> |
 
    #### Languages
    | <img src="/pics/ICON-German.png" width="50px" height="50px"> | <img src="/pics/ICON-English.png" width="50px" height="50px"> |
 |    :----:   |    :----:   |
-| <p>German</p> | <p>English</p> |
+| <p><strong>German</strong></p> | <p><strong>English</strong></p> |
