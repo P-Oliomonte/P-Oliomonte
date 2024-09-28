@@ -14,28 +14,28 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 ---
 
 ##### Tech Stack
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-HTML.png" width="50px" height="50px">
     <p>HTML</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-CSS.png" width="50px" height="50px">
     <p>CSS</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-JS.png" width="50px" height="50px">
     <p>JavaScript</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-React.png" width="50px" height="50px">
     <p>React</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Next.png" width="50px" height="50px">
     <p>Next.js</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-MongoDB.png" width="50px" height="50px">
     <p>MongoDB</p>
   </div>
@@ -45,27 +45,27 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 
 ##### Apps
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-VS.png" width="50px" height="50px">
     <p>Visual Studio Code</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Ps.png" width="50px" height="50px">
     <p>Photoshop</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Ai.png" width="50px" height="50px">
     <p>Illustrator</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Id.png" width="50px" height="50px">
     <p>InDesign</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Ae.png" width="50px" height="50px">
     <p>After Effects</p>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="/pics/ICON-Slack.png" width="50px" height="50px">
     <p>Slack</p>
   </div>
