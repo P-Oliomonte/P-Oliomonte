@@ -15,12 +15,12 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 
 ##### Tech Stack
 <p>
-<img src="/pics/ICONS_0001_HTML.png" width="5%" height="5%"> &nbsp; &nbsp;
-<img src="/pics/ICONS_0003_CSS.png" width="5%" height="5%"> &nbsp; &nbsp;
-<img src="/pics/ICONS_0002_JAVASCRIPT.png" width="5%" height="5%"> &nbsp; &nbsp;
-<img src="/pics/ICONS_0000_REACT.png" width="6%" height="6%"> &nbsp; &nbsp;
-<img width="100" alt="ICON-23" src="https://github.com/user-attachments/assets/d4206ecb-3d78-48d7-b5a3-b3d15875befe">
-
+<img src="/pics/ICON-HTML.png" width="5%" height="5%"> &nbsp; &nbsp;
+<img src="/pics/ICON-CSS.png" width="5%" height="5%"> &nbsp; &nbsp;
+<img src="/pics/ICONS-JS.png" width="5%" height="5%"> &nbsp; &nbsp;
+<img src="/pics/ICONS-Ract.png" width="6%" height="6%"> &nbsp; &nbsp;
+<img src="/pics/ICONS-Next.png" width="6%" height="6%"> &nbsp; &nbsp;
+<img src="/pics/ICONS-MongoDB.png" width="6%" height="6%">
 </p> 
 
 ---
