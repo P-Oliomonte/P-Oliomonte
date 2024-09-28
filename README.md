@@ -19,9 +19,7 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
    | <p>HTML</p> | <p>CSS</p> | <p>JavaScript</p> | <p>React</p> | <p>Next.js</p> | <p>MongoDB</p> |
 
 
----
-
 ##### Apps
    | <img src="/pics/ICON-VS.png" width="50px" height="50px"> | <img src="/pics/ICON-Ps.png" width="50px" height="50px"> | <img src="/pics/ICON-Ai.png" width="50px" height="50px"> | <img src="/pics/ICON-Id.png" width="50px" height="50px"> | <img src="/pics/ICON-Ae.png" width="50px" height="50px"> | <img src="/pics/ICON-Slack.png" width="50px" height="50px"> |
    |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
-   | <p>Visual Studio Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
+   | <p>VS Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
