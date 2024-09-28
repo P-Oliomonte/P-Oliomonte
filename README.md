@@ -14,7 +14,7 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 ---
 
 ##### Tech Stack
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="text-align: center;">
     <img src="/pics/ICON-HTML.png" width="50px" height="50px">
     <p>HTML</p>
@@ -44,7 +44,7 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 ---
 
 ##### Apps
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="text-align: center;">
     <img src="/pics/ICON-VS.png" width="50px" height="50px">
     <p>Visual Studio Code</p>
