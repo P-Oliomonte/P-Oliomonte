@@ -21,7 +21,7 @@ In my work, I'm reliable, detail-oriented, and dedicated to delivering quality r
 
 #### Apps
    | <img src="/pics/ICON-VS.png" width="50px" height="50px"> | <img src="/pics/ICON-Ps.png" width="50px" height="50px"> | <img src="/pics/ICON-Ai.png" width="50px" height="50px"> | <img src="/pics/ICON-Id.png" width="50px" height="50px"> | <img src="/pics/ICON-Ae.png" width="50px" height="50px"> | <img src="/pics/ICON-Slack.png" width="50px" height="50px"> |
-   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
+   |    ----   |    ----   |    ----   |    ----   |    ----   |    ----   |
    | <p>VS Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
 
    #### Languages
