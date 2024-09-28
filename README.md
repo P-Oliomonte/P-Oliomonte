@@ -32,7 +32,7 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 <img src="/pics/ICON-Ai.png" width="50px" height="50px"> &nbsp; &nbsp;
 <img src="/pics/ICON-Id.png" width="50px" height="50px"> &nbsp; &nbsp;
 <img src="/pics/ICON-Ae.png" width="50px" height="50px"> &nbsp; &nbsp;
-<img src="/pics/ICON-Slack.png" width="50px" height="50px"">
+<img src="/pics/ICONS-Slack.png" width="50px" height="50px"">
 </p> 
 
 
