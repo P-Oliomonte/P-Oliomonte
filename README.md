@@ -22,21 +22,6 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 ---
 
 ##### Apps
-
-    <img src="/pics/ICON-VS.png" width="50px" height="50px">
-    <p>Visual Studio Code</p>
-
-    <img src="/pics/ICON-Ps.png" width="50px" height="50px">
-    <p>Photoshop</p>
-
-    <img src="/pics/ICON-Ai.png" width="50px" height="50px">
-    <p>Illustrator</p>
-
-    <img src="/pics/ICON-Id.png" width="50px" height="50px">
-    <p>InDesign</p>
-
-    <img src="/pics/ICON-Ae.png" width="50px" height="50px">
-    <p>After Effects</p>
-
-    <img src="/pics/ICON-Slack.png" width="50px" height="50px">
-    <p>Slack</p>
+   | <img src="/pics/ICON-VS.png" width="50px" height="50px"> | <img src="/pics/ICON-Ps.png" width="50px" height="50px"> | <img src="/pics/ICON-Ai.png" width="50px" height="50px"> | <img src="/pics/ICON-Ae.png" width="50px" height="50px"> | <img src="/pics/ICON-Slack.png" width="50px" height="50px">
+   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
+   | <p>Visual Studio Code</p> | <p>Photoshop</p> | <p>Illustrator</p> | <p>InDesign</p> | <p>After Effects</p> | <p>Slack</p> |
