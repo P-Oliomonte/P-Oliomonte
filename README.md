@@ -11,7 +11,7 @@ In my work, I'm reliable, detail-oriented, and dedicated to delivering quality r
 
 Excited to collaborate? Drop me a message, and let's create some digital magic together.
 
----
+***
 
 ##### Tech Stack
 <p>
@@ -23,6 +23,6 @@ Excited to collaborate? Drop me a message, and let's create some digital magic t
 <img src="/pics/ICON-MongoDB.png" width="50px" height="50px"">
 </p> 
 
----
+***
 
 
