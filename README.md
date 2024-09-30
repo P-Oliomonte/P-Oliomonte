@@ -16,7 +16,7 @@ In my work, I'm reliable, detail-oriented, and dedicated to delivering quality r
 #### Tech Stack
    | <img src="/pics/ICON-HTML.png" width="50px" height="50px"> | <img src="/pics/ICON-CSS.png" width="50px" height="50px"> | <img src="/pics/ICON-JS.png" width="50px" height="50px"> | <img src="/pics/ICON-React.png" width="50px" height="50px"> | <img src="/pics/ICON-Next.png" width="50px" height="50px"> | <img src="/pics/ICON-MongoDB.png" width="50px" height="50px"> |    
    |    :---------:   |    :---------:   |    :---------:   |    :---------:   |    :---------:   |    :---------:   |
-   | <span style="display: inline-block; width:500px">HTML</span> | <span style="display: inline-block; width:500px">CSS</span> | <span style="display: inline-block; width:500px">JavaScript</span> | <span style="display: inline-block; width:500px">React</span> | <span style="display: inline-block; width:500px">Next.js</span> | <span style="display: inline-block; width:500px">MongoDB</span> |
+   | HTML | CSS | JavaScript | React | Next.js | MongoDB |
 
 
 
