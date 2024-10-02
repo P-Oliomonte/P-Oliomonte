@@ -7,7 +7,7 @@ Currently I'm taking part in the **Web Development Bootcamp** at **neue fische**
 
 Whether it's coding a responsive website or app or creating eye-catching graphics, I bring a keen eye for detail and a passion for bringing ideas to life.
 
-In my work, I'm reliable, detail-oriented, and dedicated to delivering quality results. Because great web development isn't just about clean code—it's about creating seamless, user-friendly experiences.
+In my work, I'm reliable, detail-oriented, and dedicated to delivering quality results. Because great web development isn't just about clean code — it's about creating seamless, user-friendly experiences.
 
 **Excited to collaborate? Drop me a message, and let's create some digital magic together.**
 
