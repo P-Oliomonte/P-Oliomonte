@@ -3,7 +3,7 @@
 
 I'm a freshly trained **web developer** and seasoned **graphic designer** based in Hamburg, with over a dozen years of professional experience in the design field. My journey began in the academic hubs of Cologne and the creative whirlwind of London, where I honed my design skills.
 
-Currently I'm taking part in the **Web Development Bootcamp** at **neue fische**, expanding my expertise by diving deep into frontend web development. This blend of web development and graphic design allows me to craft visually stunning and user-friendly digital experiences. This combination makes me strong for roles in frontend development, where both design aesthetics and technical precision are crucial. 
+I recently finished the **Web Development Bootcamp** at **neue fische**, expanding my expertise by diving deep into frontend web development. This blend of web development and graphic design allows me to craft visually stunning and user-friendly digital experiences. This combination makes me strong for roles in frontend development, where both design aesthetics and technical precision are crucial. 
 
 Whether it's coding a responsive website or app or creating eye-catching graphics, I bring a keen eye for detail and a passion for bringing ideas to life.
 
